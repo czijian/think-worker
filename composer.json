@@ -9,8 +9,8 @@
         }
     ],
     "require": {
-        "workerman/workerman": "^3.5.23",
-        "workerman/gateway-worker": "^3.0.0",
+        "workerman/workerman": "^4.0.22",
+        "workerman/gateway-worker": "^3.0.20",
         "topthink/framework": "^6.0.0",
         "ext-fileinfo": "*"
     },
